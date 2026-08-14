@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-telegram-mini-app",
+  "version": "1.0.0",
+  "description": "TikTok-style Telegram Mini App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
